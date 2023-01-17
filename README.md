@@ -20,12 +20,21 @@ Here are some ideas to get you started:
 
 ## Software Development Bootcamp
 I'm currently on a front-end web-development bootcamp with [Founders and Coders](https://learn.foundersandcoders.com/).
+<p align="center">
+  <img width="200" height="200" src="./fYyU9aCv_400x400.jpeg">
+</p>
 
 ## I'm working on...
 Expanding my 2D collision code into a game.
+<p align="center">
+  <img width="340" height="200" src="canvasanimation.gif">
+</p>
 
 ## Fun fact about me
 I once made a film about the first gay community center in the UK, which you can check out [here](https://youtu.be/fZxapxG_ew4).
+<p align="center">
+  <img width="330" height="200" src="Screenshot 2023-01-17 at 20.51.17.png">
+</p>
 
 ## My interests...
 - I love learning natural languages as well as computer programming languages
