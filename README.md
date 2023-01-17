@@ -50,7 +50,7 @@ Expanding my 2D collision code into a game.
 
 ## I'm interested in learning more about...
 - Developing software that is as accessibile as possible
-- App devlopment
+- App development 
 - The fall of the Ottoman empire
 
 Get in touch if you want to chat about these things.
