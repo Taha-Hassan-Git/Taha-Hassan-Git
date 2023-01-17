@@ -25,7 +25,7 @@ I'm currently on a front-end web-development bootcamp with [Founders and Coders]
 Expanding my 2D collision code into a game.
 
 ## Fun fact about me
-I once made a film about the first gay community center in the UK, which screened at various international film festivals
+I once made a film about the first gay community center in the UK, which you can check out [here](https://youtu.be/fZxapxG_ew4).
 
 ## My interests...
 - I love learning natural languages as well as computer programming languages
