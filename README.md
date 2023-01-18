@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 
 # Welcome! 👋 I'm Taha Hassan (He/Him)
 
-<p align="center">
-  <kbd>
-  <img width="200" height="200" src="PXL_20221211_130840364~2.jpg">
-  </kbd>
-</p>
-
 - EFL teacher of 6 years 🧑‍🏫 
 - Aspiring web developer 🕸️
 - Too many hobbies to keep on top of 🥋🎥🎸🍳🚲
