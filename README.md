@@ -27,11 +27,6 @@ Here are some ideas to get you started:
 
 ## Software Development Bootcamp
 I'm currently on a front-end web-development bootcamp with [Founders and Coders](https://learn.foundersandcoders.com/).
-<p align="center">
-  <kbd>
-  <img width="200" height="200" src="./fYyU9aCv_400x400.jpeg">
-  </kbd>
-</p>
 
 ## My Aspirations...
 - [x] Learn the basics of web development
