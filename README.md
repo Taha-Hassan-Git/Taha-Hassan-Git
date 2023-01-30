@@ -44,13 +44,6 @@ Expanding my 2D collision code into a game.
 
 Get in touch if you want to chat about these things.
 
-## Fun fact about me
-I once made a film about the first gay community center in the UK, which you can check out [here](https://youtu.be/fZxapxG_ew4).
-<p align="center">
-  <kbd>
-  <img width="330" height="200" src="Screenshot 2023-01-17 at 20.51.17.png">
-  </kbd>
-</p>
 
 ## My interests...
 - I love learning natural languages as well as computer programming languages
