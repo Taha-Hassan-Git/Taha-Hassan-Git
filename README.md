@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 # Welcome! 👋 I'm Taha Hassan (He/Him)
 
-- EFL teacher of 6 years 🧑‍🏫 
-- Aspiring web developer 🕸️
+- EFL teacher of 5 years 🧑‍🏫 
+- Front-End Web Developer 🕸️
 - Too many hobbies to keep on top of 🥋🎥🎸🍳🚲
 
 ## Software Development Bootcamp
