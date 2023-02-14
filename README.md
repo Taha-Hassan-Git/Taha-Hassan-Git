@@ -15,21 +15,27 @@ Here are some ideas to get you started:
 
 # Welcome! 👋 I'm Taha Hassan (He/Him)
 
-- EFL teacher of 5 years 🧑‍🏫 
 - Front-End Web Developer 🕸️
+- EFL teacher of 5 years 🧑‍🏫 
+- Musician and music nerd
+- Language nerd
 - Too many hobbies to keep on top of 🥋🎥🎸🍳🚲
 
 ## Software Development Bootcamp
-I'm currently on a front-end web-development bootcamp with [Founders and Coders](https://learn.foundersandcoders.com/).
+I'm currently on a front-end web-development bootcamp with [Founders and Coders](https://learn.foundersandcoders.com/). We're learning about everything from BEM naming conventions to Promises and API calls. It's a highly selective peer-learning bootcamp in which we work in pairs on projects using the full git workflow- creating issues, making branches, making pull requests, merging etc.
 
 ## My Aspirations...
-- [x] Learn the basics of web development
+- [x] Learn the fundamentals of Front-End Development
 - [x] Get onto a great coding bootcamp
 - [ ] Get hired as an apprentice
-- [ ] Make amazing software that makes the world a better place
+- [ ] Make amazing software!
 
 
 ## I'm working on...
+HearHere, an audio-based country guessing game that uses the Freesound.org sound library and the Rest Countries API.
+
+Getting a functional back/forward button on my color palette generator.
+
 Expanding my 2D collision code into a game.
 <p align="center">
   <kbd>
