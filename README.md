@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Too many hobbies to keep on top of 🥋🎥🎸🍳🚲
 
 ## Software Development Bootcamp
-I'm currently on a front-end web-development bootcamp with [Founders and Coders](https://learn.foundersandcoders.com/). We're learning about everything from BEM naming conventions to Promises and API calls. It's a highly selective peer-learning bootcamp in which we work in pairs on projects using the full git workflow- creating issues, making branches, making pull requests, merging etc.
+I'm currently on a front-end web-development bootcamp with [Founders and Coders](https://learn.foundersandcoders.com/). We're learning about everything from BEM naming conventions to Promises and API calls. During my time on the bootcamp and during the application process I've built many projects, my favourites are pinned below.
 
 ## My Aspirations...
 - [x] Learn the fundamentals of Front-End Development
