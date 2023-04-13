@@ -47,6 +47,7 @@ Expanding my [2D collision code](https://github.com/Taha-Hassan-Git/2D-Particle-
 - Developing software that is as accessibile as possible
 - AWS
 - Large Language Models
+- Data analysis and visualisation
 - The fall of the Ottoman empire
 
 Get in touch if you want to chat about these things.
