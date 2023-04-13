@@ -36,7 +36,7 @@ I've graduated from a highly selective front-end web-development bootcamp with [
 
 Dungeon Master Mind, an AI powered toolkit for game masters to help them generate content for their games.
 
-Expanding my 2D collision code into a physics game called Crazy Snooker.
+Expanding my [2D collision code](https://github.com/Taha-Hassan-Git/2D-Particle-Collision-Simulator) into a physics game called Crazy Snooker.
 <p align="center">
   <kbd>
   <img width="340" height="200" src="canvasanimation.gif">
