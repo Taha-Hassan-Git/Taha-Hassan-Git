@@ -32,7 +32,7 @@ I've graduated from a highly selective front-end web-development bootcamp with [
 
 
 ## I'm working on...
-HearHere, an audio based geography guessing game. It's a react web app written in Typescript that uses Aws lambda functions to make API calls.
+[HearHere](https://github.com/Hear-Here-Game/Hear-Here), an audio based geography guessing game. It's a react web app written in Typescript that uses Aws lambda functions to make API calls.
 
 Dungeon Master Mind, an AI powered toolkit for game masters to help them generate content for their games.
 
