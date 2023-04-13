@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Too many hobbies to keep on top of 🥋🎥🎸🍳🚲
 
 ## Software Development Bootcamp
-I'm currently on a front-end web-development bootcamp with [Founders and Coders](https://learn.foundersandcoders.com/). We're learning about everything from BEM naming conventions to Promises and API calls. During my time on the bootcamp and during the application process I've built many projects, my favourites are pinned below.
+I've graduated from a highly selective front-end web-development bootcamp with [Founders and Coders](https://learn.foundersandcoders.com/). It was a collaborative bootcamp that saw us pair programming to complete 3 projects as a way to develop essential skills such as asynchronous programming, advanced CSS and web accessibility.
 
 ## My Aspirations...
 - [x] Learn the fundamentals of Front-End Development
@@ -32,11 +32,11 @@ I'm currently on a front-end web-development bootcamp with [Founders and Coders]
 
 
 ## I'm working on...
-HearHere, an audio-based country guessing game that uses the Freesound.org sound library and the Rest Countries API.
+HearHere, an audio based geography guessing game. It's a react web app written in Typescript that uses Aws lambda functions to make API calls.
 
-Getting a functional back/forward button on my color palette generator.
+Dungeon Master Mind, an AI powered toolkit for game masters to help them generate content for their games.
 
-Expanding my 2D collision code into a game.
+Expanding my 2D collision code into a physics game called Crazy Snooker.
 <p align="center">
   <kbd>
   <img width="340" height="200" src="canvasanimation.gif">
@@ -45,7 +45,8 @@ Expanding my 2D collision code into a game.
 
 ## I'm interested in learning more about...
 - Developing software that is as accessibile as possible
-- App development 
+- AWS
+- Large Language Models
 - The fall of the Ottoman empire
 
 Get in touch if you want to chat about these things.
