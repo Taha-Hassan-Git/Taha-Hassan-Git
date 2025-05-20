@@ -1,3 +1,3 @@
-# Welcome! 👋 I'm Taha Hassan (He/Him)
+# 👋 I'm Taha Hassan (He/Him)
 
-Software Developer passionate about accessibility
+hello
